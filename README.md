@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Killer</h1>
-<h3 align="center">I'm trying to program, whether I can do it or not, I don't know anymore...</h3>
+<h3 align="center">I'm trying to code, whether I can do it or not, I don't know anymore...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=killer15cze&label=Profile%20views&color=0e75b6&style=flat" alt="killer15cze" /> </p>
 
